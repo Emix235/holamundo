@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#7d62d9</color>
+    <color name="colorPrimaryDark">#6451ab</color>
+    <color name="colorAccent">#7851d3</color>
+
+    <!-- Selector -->
+    <color name="btn_white_text">#774df2</color>
+    <color name="btn_white_text_disabled">#a0a0a0</color>
+
+</resources>
